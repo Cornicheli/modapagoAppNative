@@ -1,0 +1,8 @@
+{
+    "exportall.config.folderListener": ["/src/components/input"],
+    "exportall.config.relExclusion": [
+        "/src/components/input"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
